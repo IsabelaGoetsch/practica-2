@@ -7,5 +7,5 @@ Se verá lo siguiente:
 
 Además, se podrá introducir un email para solicitar más información.
 
-###Referencia principal
+### Referencia principal
 - https://www.telefonica.com/es/
